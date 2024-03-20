@@ -1,4 +1,4 @@
-# Project3 AutonomousVehicle
+# CSE321 Project3 AutonomousVehicle
 -------------------
 About
 -------------------
