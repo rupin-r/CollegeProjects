@@ -11,10 +11,6 @@ An 8 bit MIPS processor using Verilog (in Xilinx Vivado) and programmed onto BAS
 
 Atari Breakout using ARM assembly on the TIVA C Series
 
-Dance Dance Revolution using ARM assembly on the TIVA C Series and some C for music handling and initial file reading
-
-    This will be used as the project to implement for students taking Microprocessors I next year
-
 Hamming Code using MIPS assembly
 
 A VLSI design using Cadence for an automated Cruise Control System
