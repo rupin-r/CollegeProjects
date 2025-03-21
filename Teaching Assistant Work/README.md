@@ -1,4 +1,4 @@
-# Projects:
+## Projects:
 
 * 32 Bit MIPS Carved Processor Rubric
 
@@ -10,7 +10,7 @@
 
 
 
-# Teaching Material:
+## Teaching Material:
 
 * CSE 241: Digital Circuits
   
