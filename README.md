@@ -3,16 +3,18 @@ A compilation of college projects I have worked on individually or as part of a 
 
 Additional projects I have worked on, but can't add to this repository for academic integrity purposes are:
 
-Cash Register Application
+A VLSI design using Cadence Virtuoso for an automated Cruise Control System
+
+Pruning and Quantization of a Neural Network
+
+Neural Architecture Search
+
+8 bit MIPS processor in Verilog programmed to Basys FPGA
 
 Traffic Light System implemented with hardware and SystemVerilog
 
-An 8 bit MIPS processor using Verilog (in Xilinx Vivado) and programmed onto BASYS FPGA
-
-Atari Breakout using ARM assembly on the TIVA C Series
-
 Hamming Code using MIPS assembly
 
-A VLSI design using Cadence for an automated Cruise Control System
+Atari Breakout using ARM assembly on the TIVA C Series
 
 Open world game in Unreal was also too big to place in this repository
