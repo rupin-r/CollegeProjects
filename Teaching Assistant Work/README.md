@@ -1,10 +1,18 @@
-Links to edaplayground for each of the above projects:
+Projects:
 
-32 Bit Processor Carved Rubric: https://edaplayground.com/x/nfxV
+* 32 Bit MIPS Carved Processor Rubric
 
-32 Bit Processor Carved Template: https://edaplayground.com/x/HRZy
+* 32 Bit MIPS Carved Processor Template
 
-32 Bit Processor Full: https://edaplayground.com/x/a7vH
+* 32 Bit MIPS Full Processor
+
+* Assembly DDR with additional code for audio
 
 
-All of the processors designed follow 32 bit MIPS architecture
+Teaching Material:
+
+* CSE 241: Digital Circuits
+  
+* CSE 341: Computer Organization
+  
+* CSE 490: Computer Architecture
