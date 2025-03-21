@@ -1,4 +1,6 @@
-## Projects:
+## Projects
+
+Listed projects in directory:
 
 * 32 Bit MIPS Carved Processor Rubric
 
@@ -11,6 +13,8 @@
 
 
 ## Teaching Material:
+
+Courses listed in directory:
 
 * CSE 241: Digital Circuits
   
