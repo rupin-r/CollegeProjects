@@ -1,4 +1,4 @@
-Projects:
+#Projects:
 
 * 32 Bit MIPS Carved Processor Rubric
 
@@ -9,7 +9,8 @@ Projects:
 * Assembly DDR with additional code for audio
 
 
-Teaching Material:
+
+#Teaching Material:
 
 * CSE 241: Digital Circuits
   
